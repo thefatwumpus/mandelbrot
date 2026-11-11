@@ -43,8 +43,3 @@ python mandelbrot.py
 
 See the [main README](../README.md#setup) for the server and RCON setup. The password is in `MinecraftRCON.__init__`.
 
-## Files
-
-- `mandelbrot.py`: the generator
-- `explanation.md`: the math, written for Algebra 2 students, including a proof that the radius-2 escape test works
-- `MandelbrotVisual.png`: a screenshot of the finished render in the game
